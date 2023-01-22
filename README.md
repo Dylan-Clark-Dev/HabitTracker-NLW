@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
-[Visite o projeto online](https://https://dylan-clark-dev.github.io/HabitTracker-NLW/)
+[Visite o projeto online](https://Dylan-Clark-Dev.github.io/HabitTracker-NLW)
 
 ## 🔖 Layout
 
